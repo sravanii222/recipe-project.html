@@ -1,0 +1,167 @@
+.background{
+  background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+  height:700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cam{
+
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+    font-size: x-large;
+    align-items: center;
+ }
+nav{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center; 
+   flex: 1;    
+ }
+.search{
+       width: 500px;
+       height: 30px;
+       border: none;
+}
+.nav{
+  color: white;
+}
+
+
+
+
+.food1{
+     font-family: sans-serif;
+     font-size: xxx-large;
+   }       
+.food2{
+      padding: 20px 20px 20px 20px;
+     
+      
+    }    
+  /* .logo{
+         padding-right: 1350px;
+         padding-top: 20px; */
+   */
+h2{
+   font-family:var(--fonts-heading);
+   font-weight: 1000;
+   font-size: 40px;
+   padding: 10px;
+  
+  
+ }   
+ .foods{
+          display: flex;
+ }  
+/*.table1{
+         padding: 30px 30px 30px 30px;
+         border-color: white;
+         height: 200px;
+         width: 240px;
+         background-color: aliceblue;
+       }  */
+.table{
+         
+         padding: 10px;
+}   
+footer{
+    width: 100% ;
+    height: 200px;
+    background-color: black;
+}
+p{
+  font-family: sans-serif;
+  color: black;
+  font-size: 25px;
+  padding: 100px;
+ margin: 40px;
+}
+  /* /* .table:hover{
+  transform: scale(1.1); */
+
+/* } */ */
+.what{
+  color: blue;
+  font-size: 3rem;
+}
+
+.morning{
+  color: black;
+  font-size: 3rem;
+}
+.sra{
+  color: black;
+}
+.no{
+  color: black;
+}
+.sweet{
+  color: black;
+  font-size: 3rem;
+}
+.speed{
+  font-size: 2rem;
+  color: blue;
+}
+.sam{
+  font-size: 2rem;
+  color: blue;
+}
+.uni{
+  font-size:2rem ;
+  color: blue;
+}
+.po{
+  font-size: 2rem;
+  color: blue;
+}
+.pan{
+  font-size: 2rem;
+  color: blue;
+}
+.rice{
+  font-size: 2rem;
+  color: blue;
+}
+.do{
+  font-size: 2rem;
+  color: blue;
+}
+.lemon{
+  font-size: 2rem;
+  color: blue;
+}
+.bond{
+  font-size: 2rem;
+  color: blue;
+}
+.led{
+  font-size: 2rem;
+  color: blue;
+}
+.dos{
+  font-size: 2rem;
+  color: blue;
+}
+.main{
+  font-size: 2rem;
+  color: blue;
+}
+.css{
+  font-size: 2rem;
+  color: blue;
+}
+.map{
+  color: white;
+}
+.wow{
+  font-size: 3rem;
+}
+.now{
+  font-size: 3rem;
+}
+.sra{
+  font-size: 3rem;
+}
